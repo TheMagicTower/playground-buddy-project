@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/TheMagicTower/playground-buddy-api.git
+[submodule "web"]
+	path = web
+	url = https://github.com/TheMagicTower/playground-buddy-web.git
+[submodule "app"]
+	path = app
+	url = https://github.com/TheMagicTower/playground-buddy-app.git
