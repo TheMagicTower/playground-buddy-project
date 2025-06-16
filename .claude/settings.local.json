@@ -25,7 +25,12 @@
       "Bash(npx create-expo-app:*)",
       "Bash(npx expo install:*)",
       "Bash(npm install:*)",
-      "Bash(pnpm install:*)"
+      "Bash(pnpm install:*)",
+      "Bash(./scripts/setup.sh:*)",
+      "Bash(pnpm dev:*)",
+      "Bash(nvm install:*)",
+      "Bash(nvm use:*)",
+      "Bash(node:*)"
     ],
     "deny": []
   }
