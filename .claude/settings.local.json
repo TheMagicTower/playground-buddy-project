@@ -13,7 +13,19 @@
       "Bash(rm:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(git clone:*)"
+      "Bash(git clone:*)",
+      "Bash(npx supabase:*)",
+      "Bash(pnpm create:*)",
+      "Bash(mv:*)",
+      "Bash(true)",
+      "Bash(ls:*)",
+      "Bash(pnpm add:*)",
+      "Bash(cp:*)",
+      "Bash(git pull:*)",
+      "Bash(npx create-expo-app:*)",
+      "Bash(npx expo install:*)",
+      "Bash(npm install:*)",
+      "Bash(pnpm install:*)"
     ],
     "deny": []
   }
